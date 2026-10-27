@@ -1,0 +1,4 @@
+isbn,title,author,publisher,category,publication_year,total_quantity
+9780000001001,Example Python Fundamentals,Sample Author,College Demo,Programming,2024,3
+9780000001002,Example Database Concepts,Sample Author,College Demo,Computer Science,2023,2
+9780000001003,Example Data Analysis,Sample Author,College Demo,Analytics,2025,1
